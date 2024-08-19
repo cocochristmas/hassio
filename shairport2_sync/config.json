@@ -42,5 +42,5 @@
   "environment": {
     "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
   },
-  "image": "ghrc.io/cocochristmas/{arch}-addon-shairport2-sync"
+  "image": "ghcr.io/cocochristmas/{arch}-addon-shairport2-sync"
 }
