@@ -6,7 +6,7 @@
 
 Enables AirPlay2 audio streaming to Home Assistant.
 
-[license-shield]: https://img.shields.io/github/license/cocochristmas/addon-shairport-sync.svg
+[license-shield]: https://img.shields.io/github/license/cocochristmas/addon-shairport2-sync.svg
 [version-shield]: https://images.microbadger.com/badges/version/maidok/shairport2-sync.svg
 [releases-shield]: https://img.shields.io/github/release/cocochristmas/addon-shairport-sync.svg
 [releases]: https://github.com/cocochristmas/addon-shairport2-sync/releases
