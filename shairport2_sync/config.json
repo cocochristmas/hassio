@@ -1,9 +1,9 @@
 
 {
-  "name": "Shairport Sync",
+  "name": "Shairport2 Sync",
   "version": "1.0.0",
-  "slug": "shairport_sync",
-  "description": "Shairport Sync for Hass.io",
+  "slug": "shairport2_sync",
+  "description": "Shairport2 Sync for Hass.io",
   "url": "https://github.com/cocochristmas/addon-shairport2-sync",
   "startup": "application",
   "arch": [
